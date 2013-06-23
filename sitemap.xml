@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://readcodelearn.com/blog/2013/06/23/welcome/</loc>
+        <lastmod>2013-06-23T10:51:34-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://readcodelearn.com/robots.txt</loc>
         <lastmod>2013-06-22T22:04:12-07:00</lastmod>
     </url>
     <url>
         <loc>http://readcodelearn.com/</loc>
-        <lastmod>2013-06-22T22:04:12-07:00</lastmod>
+        <lastmod>2013-06-23T10:51:34-07:00</lastmod>
     </url>
     <url>
         <loc>http://readcodelearn.com/blog/archives/</loc>
-        <lastmod>2013-06-22T22:04:12-07:00</lastmod>
+        <lastmod>2013-06-23T10:51:34-07:00</lastmod>
     </url>
 </urlset>
