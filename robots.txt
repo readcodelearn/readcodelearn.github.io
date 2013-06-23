@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://readcodelearn.github.io/sitemap.xml 
+Sitemap: http://readcodelearn.com/sitemap.xml 

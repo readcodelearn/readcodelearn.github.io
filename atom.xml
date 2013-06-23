@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://readcodelearn.github.io/atom.xml" rel="self"/>
-  <link href="http://readcodelearn.github.io/"/>
-  <updated>2013-06-22T22:07:01-07:00</updated>
-  <id>http://readcodelearn.github.io/</id>
+  <title><![CDATA[/read,? code, learn/]]></title>
+  <link href="http://readcodelearn.com/atom.xml" rel="self"/>
+  <link href="http://readcodelearn.com/"/>
+  <updated>2013-06-22T22:57:01-07:00</updated>
+  <id>http://readcodelearn.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jason]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
