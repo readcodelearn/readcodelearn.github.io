@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[/read,? code, learn/]]></title>
+  <title><![CDATA[/read,? code, learn!/]]></title>
   <link href="http://readcodelearn.com/atom.xml" rel="self"/>
   <link href="http://readcodelearn.com/"/>
-  <updated>2013-06-22T22:57:01-07:00</updated>
+  <updated>2013-06-23T10:35:55-07:00</updated>
   <id>http://readcodelearn.com/</id>
   <author>
     <name><![CDATA[Jason]]></name>
