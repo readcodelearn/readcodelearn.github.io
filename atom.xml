@@ -4,7 +4,7 @@
   <title><![CDATA[/read,? code, learn!/]]></title>
   <link href="http://readcodelearn.com/atom.xml" rel="self"/>
   <link href="http://readcodelearn.com/"/>
-  <updated>2013-06-24T12:38:27-07:00</updated>
+  <updated>2013-06-24T13:04:12-07:00</updated>
   <id>http://readcodelearn.com/</id>
   <author>
     <name><![CDATA[Jason]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome!]]></title>
-    <link href="http://readcodelearn.com/blog/2013/06/23/welcome/"/>
+    <link href="http://readcodelearn.com/2013/06/23/welcome/"/>
     <updated>2013-06-23T10:51:00-07:00</updated>
-    <id>http://readcodelearn.com/blog/2013/06/23/welcome</id>
+    <id>http://readcodelearn.com/2013/06/23/welcome</id>
     <content type="html"><![CDATA[<p>Hello world!</p>
 ]]></content>
   </entry>
